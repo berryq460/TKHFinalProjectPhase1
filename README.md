@@ -33,10 +33,11 @@ We will have an autocomplete search bar where the user inputs a plant name, find
 >“The environment is where we all meet; where we all have a mutual interest; it is the one thing all of us share.”
 -Lady Bird Johnson
 
+**Quiana Berry- Amazon Forest- Iquitos, Peru**          |  **Katherine Fernandez- DR**
+:-------------------------:|:-------------------------:
+ ![20190822_104658-01](https://user-images.githubusercontent.com/24463725/100678658-ab012c80-333b-11eb-8b7c-fb37096cc4e8.jpeg) |![66860407_2763737313640544_302246538065739776_o](https://user-images.githubusercontent.com/24463725/100673098-dfbbb680-3330-11eb-92ab-60a4719eb848.jpg)
 
-![20190822_104658-01](https://user-images.githubusercontent.com/24463725/100678658-ab012c80-333b-11eb-8b7c-fb37096cc4e8.jpeg) |
-) |**Quiana Berry- Amazon Forest- Iquitos, Peru**
-![66860407_2763737313640544_302246538065739776_o](https://user-images.githubusercontent.com/24463725/100673098-dfbbb680-3330-11eb-92ab-60a4719eb848.jpg) |**Katherine Fernandez- DR**
+
 
 **API Resources**
 
