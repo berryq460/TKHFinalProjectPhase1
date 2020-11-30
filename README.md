@@ -1,4 +1,4 @@
-# TKH Final Project Phase 1
+# TKH Final Project Phase 1 - "Plant-o-pedia"
 
 1. Name: Plant-o-pedia
 2. Features:  Plant locator from all around the world! See what the weather and location is like where these plants inhabit and where on the map it’s located.
