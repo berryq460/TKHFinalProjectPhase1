@@ -1,4 +1,4 @@
-# TKH Final Project Phase 1 - "Plant-o-pedia" :herb:
+# TKH Final Project Phase 1 - "Plant-o-pedia" :herb::earth_americas::mag:
 
 1. **Name:** Plant-o-pedia
 2. **Features:**  Learn about plants from from all around the world! See what the weather and location is like where different species of plants inhabit and where on the map it’s located.
@@ -35,7 +35,7 @@ We will have an autocomplete search bar where the user inputs a plant name, find
 
 THANKS FOR Reading :wave:
 ![20190822_104658-01](https://user-images.githubusercontent.com/24463725/100668869-936d7800-332a-11eb-9e0b-99a03491ecb3.jpeg) |Quiana Berry- Amazon Forest- Iquitos, Peru
-![66860407_2763737313640544_302246538065739776_o](https://user-images.githubusercontent.com/24463725/100673098-dfbbb680-3330-11eb-92ab-60a4719eb848.jpg width="100" height="100") |Katherine Fernandez- DR 
+![66860407_2763737313640544_302246538065739776_o](https://user-images.githubusercontent.com/24463725/100673098-dfbbb680-3330-11eb-92ab-60a4719eb848.jpg) |Katherine Fernandez- DR 
 
 **API Resources**
 Country Photography: https://www.pexels.com/api/
