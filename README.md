@@ -36,6 +36,6 @@ Weather Data: https://openweathermap.org/api
 Plant API - https://trefle.io/
 Google Maps- https://developers.google.com/maps/documentation/embed/get-api-key
 
-##Project Designed by Quiana Berry (Project Lead) and Katherine Fernandez (UI/UX)
+## Project Designed by Quiana Berry (Project Lead) and Katherine Fernandez (UI/UX)
 THANKS FOR Reading :wave:
 ![20190822_104658-01](https://user-images.githubusercontent.com/24463725/100668869-936d7800-332a-11eb-9e0b-99a03491ecb3.jpeg) |Quiana Berry- Amazon Forest- Iquitos, Peru
