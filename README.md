@@ -1,13 +1,11 @@
 # TKH Final Project Phase 1 - "Plant-o-pedia" :herb:
 
 1. Name: Plant-o-pedia
-2. Features:  Plant locator from all around the world! See what the weather and location is like where these plants inhabit and where on the map it’s located.
+2. Features:  Learn about plants from from all around the world! See what the weather and location is like where different species of plants inhabit and where on the map it’s located.
 
 ![Plant-o-pedia (2)](https://user-images.githubusercontent.com/24463725/100668081-5b196a00-3329-11eb-86ab-9981adc86895.png)
 
-Function: Our goal is to help users (specifically garden or agricultural enthusiasts) learn about different plants in different parts of the world and they learn about the characteristics
-
-We will have an autocomplete search bar where the user inputs a plant name, finds out about the species, location on the map, and the weather of that environment that makes this location a prime area for growth for that plant.
+Function: Our goal is to help users (specifically garden or agricultural enthusiasts) learn about different plants in different parts of the world. Users will also learn about the weather conditions necessary for these species of plants to thrive.
 
 3. Wireframes: 
 Figma --> https://www.figma.com/file/lEanIOQ1addU9STEwMIujZ/Plantopedia?node-id=1%3A15
@@ -30,6 +28,8 @@ Figma --> https://www.figma.com/file/lEanIOQ1addU9STEwMIujZ/Plantopedia?node-id=
 -Using an ENV file if our API requires the use of an API Key
 
 6. Extras- Autocomplete bar, Google maps feature, 4 APIs
+
+We will have an autocomplete search bar where the user inputs a plant name, finds out about the species, location on the map, and the weather of that environment that makes this location a prime area for growth for that plant.
 
 API Resources-
 Country Photography: https://www.pexels.com/api/
