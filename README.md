@@ -38,10 +38,7 @@ We will have an autocomplete search bar where the user inputs a plant name, find
 ![66860407_2763737313640544_302246538065739776_o](https://user-images.githubusercontent.com/24463725/100673098-dfbbb680-3330-11eb-92ab-60a4719eb848.jpg) |**Katherine Fernandez- DR**
 
 **API Resources**
-Country Photography: https://www.pexels.com/api/
-Weather Data: https://openweathermap.org/api 
-Plant API - https://trefle.io/
-Google Maps- https://developers.google.com/maps/documentation/embed/get-api-key
+
 | API Resource Type  | Links |
 | ------------- | ------------- |
 | Photography API  | https://www.pexels.com/api/  |
