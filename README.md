@@ -17,15 +17,14 @@ Figma --> https://www.figma.com/file/lEanIOQ1addU9STEwMIujZ/Plantopedia?node-id=
 :herb:From plant API(Trefle)
 
 
+*5. We are meeting project requirements as a team by:*
 
-5. We are meeting requirements as a team by:
-
--Using HTML, CSS, and Javascript
--Using Axios to retrieve data from an external source, and render such data into the DOM.
--Using flexbox
--Implementing responsive design on 3 screen sizes, desktop, tablet and mobile using media queries.
--Hosting on either Netlify or Surge.
--Using an ENV file if our API requires the use of an API Key
+*Using HTML, CSS, and Javascript
+*Using Axios to retrieve data from an external source, and render such data into the DOM.
+*Using flexbox
+*Implementing responsive design on 3 screen sizes, desktop, tablet and mobile using media queries.
+*Hosting on either Netlify or Surge.
+*Using an ENV file if our API requires the use of an API Key
 
 6. Extras- Autocomplete bar, Google maps feature, 4 APIs
 
