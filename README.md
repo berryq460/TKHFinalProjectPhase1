@@ -5,7 +5,7 @@
 
 ![Plant-o-pedia (2)](https://user-images.githubusercontent.com/24463725/100668081-5b196a00-3329-11eb-86ab-9981adc86895.png)
 
-**Function:** Our goal is to help users (specifically garden or agricultural enthusiasts) learn about different plants in different parts of the world. Users will also learn about the weather conditions necessary for these species of plants to thrive.
+>**Function:** Our goal is to help users (specifically garden or agricultural enthusiasts) learn about different plants in different parts of the world. Users will also learn about the weather conditions necessary for these species of plants to thrive.
 
 3. **Wireframes:** 
 Figma --> https://www.figma.com/file/lEanIOQ1addU9STEwMIujZ/Plantopedia?node-id=1%3A15
