@@ -8,7 +8,7 @@
 >**Function:** Our goal is to help users (specifically garden or agricultural enthusiasts) learn about different plants in different parts of the world. Users will also learn about the weather conditions necessary for these species of plants to thrive.
 
 3. **Wireframes:** 
-Figma --> https://www.figma.com/file/lEanIOQ1addU9STEwMIujZ/Plantopedia?node-id=1%3A15
+Figma --> _Image Located Above_
 
  4. **APIs we will use:** Goal-- > 4 API endpoints: 
 :herb:From open weather
