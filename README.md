@@ -11,10 +11,10 @@
 Figma --> _Wireframe Located Above_
 
  4. **APIs we will use:** Goal-- > 4 API endpoints: 
-- From open weather
-- From google maps
-- From photo API (Pexels)
-- From plant API(Trefle)
+>- From open weather
+>- From google maps
+>- From photo API (Pexels)
+>- From plant API(Trefle)
 
 5. **We are meeting project requirements as a team by:**
 
