@@ -16,7 +16,6 @@ Figma --> https://www.figma.com/file/lEanIOQ1addU9STEwMIujZ/Plantopedia?node-id=
 :herb:From photo API (Pexels)
 :herb:From plant API(Trefle)
 
-
 5. **We are meeting project requirements as a team by:**
 
 *Using HTML, CSS, and Javascript
@@ -31,6 +30,9 @@ Figma --> https://www.figma.com/file/lEanIOQ1addU9STEwMIujZ/Plantopedia?node-id=
 We will have an autocomplete search bar where the user inputs a plant name, finds out about the species, location on the map, and the weather of that environment that makes this location a prime area for growth for that plant.
 
 ## Project Designed by Quiana Berry (Project Lead) and Katherine Fernandez (UI/UX)
+>“The environment is where we all meet; where we all have a mutual interest; it is the one thing all of us share.”
+-Lady Bird Johnson
+
 THANKS FOR Reading :wave:
 ![20190822_104658-01](https://user-images.githubusercontent.com/24463725/100668869-936d7800-332a-11eb-9e0b-99a03491ecb3.jpeg) |Quiana Berry- Amazon Forest- Iquitos, Peru
 
