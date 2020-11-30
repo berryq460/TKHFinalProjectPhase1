@@ -43,4 +43,4 @@ Plant API - https://trefle.io/
 Google Maps- https://developers.google.com/maps/documentation/embed/get-api-key
 
 
-**THANKS FOR Reading :wave:**
+**THANKS for reading :wave:**
