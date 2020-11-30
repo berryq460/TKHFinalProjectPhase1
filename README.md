@@ -20,7 +20,7 @@ Figma --> https://www.figma.com/file/lEanIOQ1addU9STEwMIujZ/Plantopedia?node-id=
 
 
 
-5. Meeting requirement as a team by:
+5. We are meeting requirements as a team by:
 
 -Using HTML, CSS, and Javascript
 -Using Axios to retrieve data from an external source, and render such data into the DOM.
