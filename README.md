@@ -3,7 +3,7 @@
 1. Name: Plant-o-pedia
 2. Features:  Plant locator from all around the world! See what the weather and location is like where these plants inhabit and where on the map it’s located.
 
-![3 Figma Types](https://www.figma.com/file/lEanIOQ1addU9STEwMIujZ/Plant-o-pedia?node-id=0%3A1)
+![Plant-o-pedia (1)](https://user-images.githubusercontent.com/24463725/100664563-d0833b80-3325-11eb-9237-c6220ac4f412.png)
 
 3. Wireframes: 
 Figma --> https://www.figma.com/file/lEanIOQ1addU9STEwMIujZ/Plantopedia?node-id=1%3A15
