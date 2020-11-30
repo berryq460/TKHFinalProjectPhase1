@@ -32,9 +32,8 @@ We will have an autocomplete search bar where the user inputs a plant name, find
 ## Project Designed by Quiana Berry (Project Lead) and Katherine Fernandez (UI/UX)
 >“The environment is where we all meet; where we all have a mutual interest; it is the one thing all of us share.”
 -Lady Bird Johnson
-
-THANKS FOR Reading :wave:
-![20190822_104658-01](https://user-images.githubusercontent.com/24463725/100668869-936d7800-332a-11eb-9e0b-99a03491ecb3.jpeg) |Quiana Berry- Amazon Forest- Iquitos, Peru
+|Quiana Berry- Amazon Forest- Iquitos, Peru
+![20190822_104658-01](https://user-images.githubusercontent.com/24463725/100668869-936d7800-332a-11eb-9e0b-99a03491ecb3.jpeg) 
 ![66860407_2763737313640544_302246538065739776_o](https://user-images.githubusercontent.com/24463725/100673098-dfbbb680-3330-11eb-92ab-60a4719eb848.jpg) |Katherine Fernandez- DR 
 
 **API Resources**
@@ -42,3 +41,6 @@ Country Photography: https://www.pexels.com/api/
 Weather Data: https://openweathermap.org/api 
 Plant API - https://trefle.io/
 Google Maps- https://developers.google.com/maps/documentation/embed/get-api-key
+
+
+**THANKS FOR Reading :wave:**
