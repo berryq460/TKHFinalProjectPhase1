@@ -13,10 +13,10 @@ We will have an autocomplete search bar where the user inputs a plant name, find
 Figma --> https://www.figma.com/file/lEanIOQ1addU9STEwMIujZ/Plantopedia?node-id=1%3A15
 
  4. APIs we will use: Goal-- > 4 API endpoints: 
-*From open weather*
-*From google maps*
-*From photo API (Pexels)
-From plant API(Trefle)
+:herb:From open weather
+:herb:From google maps
+:herb:From photo API (Pexels)
+:herb:From plant API(Trefle)
 
 
 
