@@ -42,6 +42,12 @@ Country Photography: https://www.pexels.com/api/
 Weather Data: https://openweathermap.org/api 
 Plant API - https://trefle.io/
 Google Maps- https://developers.google.com/maps/documentation/embed/get-api-key
+| API Resource Type  | Links |
+| ------------- | ------------- |
+| Photography API  | https://www.pexels.com/api/  |
+| Weather API  | https://openweathermap.org/api  |
+| Plant API | https://trefle.io/  |
+| Google API | https://developers.google.com/maps/documentation/embed/get-api-key  |
 
 
 **THANKS for reading :wave:**
