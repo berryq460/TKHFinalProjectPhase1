@@ -35,6 +35,7 @@ We will have an autocomplete search bar where the user inputs a plant name, find
 
 THANKS FOR Reading :wave:
 ![20190822_104658-01](https://user-images.githubusercontent.com/24463725/100668869-936d7800-332a-11eb-9e0b-99a03491ecb3.jpeg) |Quiana Berry- Amazon Forest- Iquitos, Peru
+![66860407_2763737313640544_302246538065739776_o](https://user-images.githubusercontent.com/24463725/100673098-dfbbb680-3330-11eb-92ab-60a4719eb848.jpg) -
 
 **API Resources**
 Country Photography: https://www.pexels.com/api/
