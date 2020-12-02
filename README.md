@@ -1,4 +1,4 @@
-# Final Project Phase 1- "Plant-o-pedia" :herb::earth_americas::mag:
+# TKH Project Proposal- Phase 1- "Plant-o-pedia" :herb::earth_americas::mag:
 
 1. **Name:** Plant-o-pedia
 2. **Features:**  Learn about plants from from all around the world! See what the weather and location is like where different species of plants inhabit and where on the map it’s located.
