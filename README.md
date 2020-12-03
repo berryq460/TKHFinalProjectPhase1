@@ -11,10 +11,7 @@
 Figma --> _Wireframe Located Above_
 
  4. **APIs we will use:** Goal-- > 4 API endpoints: 
->- From open weather
->- From google maps
->- From photo API (Pexels)
->- From plant API(Trefle)
+>- From plant API(Trefle)- Plant Search, Kingdom, Family & Species 
 
 5. **We are meeting project requirements as a team by:**
 
@@ -25,7 +22,11 @@ Figma --> _Wireframe Located Above_
 >- Hosting on either Netlify or Surge.
 >- Using an ENV file if our API requires the use of an API Key
 
-6. **Extras**- Autocomplete bar, Google maps feature, 4 APIs
+6. **Extras**- Autocomplete bar, Google maps feature, 
+  _**Possible Other APIs_**
+>- Open weather
+>- Google maps
+>- Photo API (Pexels)
 
 We will have an autocomplete search bar where the user inputs a plant name, finds out about the species, location on the map, and the weather of that environment that makes this location a prime area for growth for that plant.
 
