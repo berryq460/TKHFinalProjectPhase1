@@ -10,8 +10,8 @@
 3. **Wireframes:** 
 Figma --> _Wireframe Located Above_
 
- 4. **APIs we will use:** Goal-- > 4 API endpoints: 
->- From plant API(Trefle)- Plant Search, Kingdom, Family & Species 
+ 4. **APIs we will use:**   
+>-  4 API endpoints: From the plant API(Trefle)- Plant Search, Kingdom, Family & Species 
 
 5. **We are meeting project requirements as a team by:**
 
