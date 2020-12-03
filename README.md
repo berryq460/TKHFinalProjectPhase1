@@ -23,7 +23,7 @@ Figma --> _Wireframe Located Above_
 >- Using an ENV file if our API requires the use of an API Key
 
 6. **Extras**- 
-> __**Possible Other APIs such as:**__
+> __**We hope to include other APIs such as:**__
 >- Open weather -weather conditions in plant location
 >- Google maps - location where plant is found
 >- Photo API (Pexels)- photo of plant location (Ex: woods, forest, etc.)
