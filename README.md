@@ -33,8 +33,8 @@ Figma --> _Wireframe Located Above_
 We will have an autocomplete search bar where the user inputs a plant name, finds out about the species, location on the map, and the weather of that environment that makes this location a prime area for growth for that plant.
 
 ## Project Designed by: _Quiana Berry (Project Lead) x Katherine Fernandez (UI/UX)_
->“The environment is where we all meet; where we all have a mutual interest; it is the one thing all of us share.”
--Lady Bird Johnson
+>**“The environment is where we all meet; where we all have a mutual interest; it is the one thing all of us share.”
+-Lady Bird Johnson**
 
 **Quiana Berry- Amazon Forest- Iquitos, Peru**          |  **Katherine Fernandez- DR**
 :-------------------------:|:-------------------------:
