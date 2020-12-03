@@ -23,7 +23,7 @@ Figma --> _Wireframe Located Above_
 >- Using an ENV file if our API requires the use of an API Key
 
 6. **Extras**- Autocomplete bar, Google maps feature, 
-  _**Possible Other APIs_**
+>-  **Possible Other APIs**
 >- Open weather
 >- Google maps
 >- Photo API (Pexels)
