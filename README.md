@@ -22,11 +22,13 @@ Figma --> _Wireframe Located Above_
 >- Hosting on either Netlify or Surge.
 >- Using an ENV file if our API requires the use of an API Key
 
-6. **Extras**- Autocomplete bar, Google maps feature, 
+6. **Extras**- 
 > __**Possible Other APIs such as:**__
->- Open weather
->- Google maps
->- Photo API (Pexels)
+>- Open weather -weather conditions in plant location
+>- Google maps - location where plant is found
+>- Photo API (Pexels)- photo of plant location (Ex: woods, forest, etc.)
+>- Autocomplete plant search bar 
+
 
 We will have an autocomplete search bar where the user inputs a plant name, finds out about the species, location on the map, and the weather of that environment that makes this location a prime area for growth for that plant.
 
