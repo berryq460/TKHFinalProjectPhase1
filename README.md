@@ -3,7 +3,7 @@
 1. **Name:** Plant-o-pedia
 2. **Features:**  Learn about plants from from all around the world! See what the weather and location is like where different species of plants inhabit and where on the map it’s located.
 
-![Plant-o-pedia (3)](https://user-images.githubusercontent.com/24463725/100813125-a0629800-340c-11eb-927b-0a8929f82401.png)
+![Plant-o-pedia (4)](https://user-images.githubusercontent.com/24463725/100946239-f1d45b00-34d0-11eb-8103-f8a7ece9267b.png)
 
 >**Function:** Our goal is to help users (specifically garden or agricultural enthusiasts) learn about different plants in different parts of the world. Users will also learn about the weather conditions necessary for these species of plants to thrive.
 
