@@ -1,5 +1,8 @@
 # Project Proposal- Phase 1- "Plant-o-pedia" :herb::earth_americas::mag:
 
+>**“The environment is where we all meet; where we all have a mutual interest; it is the one thing all of us share.”
+-Lady Bird Johnson**
+
 1. **Name:** Plant-o-pedia
 2. **Features:**  Learn about plants from from all around the world! See what the weather and location is like, where different species of plants inhabit and where on the map it’s located.
 
@@ -33,8 +36,7 @@ Figma --> _Wireframe Located Above_
  Goal -> create an autocomplete search bar where the user inputs a plant name, finds out about the species, location on the map, and the weather of that environment that makes this location a prime area for growth for that plant.
 
 ## Project Designed by: _Quiana Berry (Project Lead) x Katherine Fernandez (UI/UX)_
->**“The environment is where we all meet; where we all have a mutual interest; it is the one thing all of us share.”
--Lady Bird Johnson**
+
 
 **Quiana Berry- Amazon Forest- Iquitos, Peru**          |  **Katherine Fernandez- DR**
 :-------------------------:|:-------------------------:
